@@ -1,0 +1,6 @@
+discord
+discord-py
+asyncio
+datetime
+ISS_Info
+cryptography
