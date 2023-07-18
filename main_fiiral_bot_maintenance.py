@@ -35,4 +35,4 @@ async def on_message(ctx):
     if ctx.content.startswith("."):
         await ctx.channel.send("The bot is currently in maintenance. It will be back as soon as possible.")
 
-client.run("NjU1NDQ2NTU0NTA0NTkzNDU4.G-Xvb2.VU44AJN78Rz34V3QXsKyF4I-F39ar4v7qp-LFM")
+client.run("TOKEN")
