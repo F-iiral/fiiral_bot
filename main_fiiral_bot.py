@@ -1176,6 +1176,4 @@ async def save_xp_data():
 
 
 # Testing
-#client.run("NzgyNjE4Nzg0OTQ2NDU0NTY5.GI74X_.qjdV1kuAeXHQcD45m4JzrgmR92XucmmR_PyW30")
-# Main
-client.run("NjU1NDQ2NTU0NTA0NTkzNDU4.GaQnB3.TP20URYe0V7fmZta5S07R1elaCa20bpABO_Ymw")
+#client.run("TOKEN")
